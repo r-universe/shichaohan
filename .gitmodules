@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "MultiObjMatch"]
 	path = MultiObjMatch
-	url = https://github.com/shichaohan/multiobjmatch
+	url = https://github.com/cran/MultiObjMatch
